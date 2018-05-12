@@ -1,0 +1,5 @@
+C:\Users\Student\Desktop\Tech Academy material\GitHub\DataTypesExercise1\DataTypesExercise1\bin\Debug\DataTypesExercise1.exe.config
+C:\Users\Student\Desktop\Tech Academy material\GitHub\DataTypesExercise1\DataTypesExercise1\bin\Debug\DataTypesExercise1.exe
+C:\Users\Student\Desktop\Tech Academy material\GitHub\DataTypesExercise1\DataTypesExercise1\bin\Debug\DataTypesExercise1.pdb
+C:\Users\Student\Desktop\Tech Academy material\GitHub\DataTypesExercise1\DataTypesExercise1\obj\Debug\DataTypesExercise1.exe
+C:\Users\Student\Desktop\Tech Academy material\GitHub\DataTypesExercise1\DataTypesExercise1\obj\Debug\DataTypesExercise1.pdb

@@ -1,0 +1,6 @@
+C:\Users\Student\Desktop\Tech Academy material\GitHub\WhileLoopApplication\WhileLoopApplication\bin\Debug\WhileLoopApplication.exe.config
+C:\Users\Student\Desktop\Tech Academy material\GitHub\WhileLoopApplication\WhileLoopApplication\bin\Debug\WhileLoopApplication.exe
+C:\Users\Student\Desktop\Tech Academy material\GitHub\WhileLoopApplication\WhileLoopApplication\bin\Debug\WhileLoopApplication.pdb
+C:\Users\Student\Desktop\Tech Academy material\GitHub\WhileLoopApplication\WhileLoopApplication\obj\Debug\WhileLoopApplication.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\Tech Academy material\GitHub\WhileLoopApplication\WhileLoopApplication\obj\Debug\WhileLoopApplication.exe
+C:\Users\Student\Desktop\Tech Academy material\GitHub\WhileLoopApplication\WhileLoopApplication\obj\Debug\WhileLoopApplication.pdb

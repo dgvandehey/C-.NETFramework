@@ -1,0 +1,6 @@
+C:\Users\Student\Desktop\Tech Academy material\GitHub\TwentyOne\TwentyOne\bin\Debug\TwentyOne.exe.config
+C:\Users\Student\Desktop\Tech Academy material\GitHub\TwentyOne\TwentyOne\bin\Debug\TwentyOne.exe
+C:\Users\Student\Desktop\Tech Academy material\GitHub\TwentyOne\TwentyOne\bin\Debug\TwentyOne.pdb
+C:\Users\Student\Desktop\Tech Academy material\GitHub\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\Tech Academy material\GitHub\TwentyOne\TwentyOne\obj\Debug\TwentyOne.exe
+C:\Users\Student\Desktop\Tech Academy material\GitHub\TwentyOne\TwentyOne\obj\Debug\TwentyOne.pdb

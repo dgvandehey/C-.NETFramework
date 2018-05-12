@@ -1,0 +1,6 @@
+C:\Users\Student\Desktop\Tech Academy material\GitHub\MathandComparisonOperators\MathandComparisonOperators\bin\Debug\MathandComparisonOperators.exe.config
+C:\Users\Student\Desktop\Tech Academy material\GitHub\MathandComparisonOperators\MathandComparisonOperators\bin\Debug\MathandComparisonOperators.exe
+C:\Users\Student\Desktop\Tech Academy material\GitHub\MathandComparisonOperators\MathandComparisonOperators\bin\Debug\MathandComparisonOperators.pdb
+C:\Users\Student\Desktop\Tech Academy material\GitHub\MathandComparisonOperators\MathandComparisonOperators\obj\Debug\MathandComparisonOperators.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\Tech Academy material\GitHub\MathandComparisonOperators\MathandComparisonOperators\obj\Debug\MathandComparisonOperators.exe
+C:\Users\Student\Desktop\Tech Academy material\GitHub\MathandComparisonOperators\MathandComparisonOperators\obj\Debug\MathandComparisonOperators.pdb

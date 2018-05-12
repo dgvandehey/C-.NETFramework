@@ -1,0 +1,27 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Default.aspx.cs" Inherits="ViewStateExercise.Default" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+    
+        Type a Value to Add it to the string<br />
+        <br />
+        Server Control<br />
+        <asp:TextBox ID="valueTextBox" runat="server"></asp:TextBox>
+        <br />
+        <br />
+        <asp:Button ID="Button1" runat="server" OnClick="Button1_Click" Text="ADD" />
+        <br />
+        <br />
+        <asp:Label ID="resultLabel" runat="server"></asp:Label>
+    
+    </div>
+    </form>
+</body>
+</html>

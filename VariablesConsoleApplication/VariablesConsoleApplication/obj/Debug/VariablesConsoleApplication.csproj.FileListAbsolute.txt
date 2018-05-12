@@ -1,0 +1,6 @@
+C:\Users\Student\Desktop\Tech Academy material\GitHub\VariablesConsoleApplication\VariablesConsoleApplication\bin\Debug\VariablesConsoleApplication.exe.config
+C:\Users\Student\Desktop\Tech Academy material\GitHub\VariablesConsoleApplication\VariablesConsoleApplication\bin\Debug\VariablesConsoleApplication.exe
+C:\Users\Student\Desktop\Tech Academy material\GitHub\VariablesConsoleApplication\VariablesConsoleApplication\bin\Debug\VariablesConsoleApplication.pdb
+C:\Users\Student\Desktop\Tech Academy material\GitHub\VariablesConsoleApplication\VariablesConsoleApplication\obj\Debug\VariablesConsoleApplication.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\Tech Academy material\GitHub\VariablesConsoleApplication\VariablesConsoleApplication\obj\Debug\VariablesConsoleApplication.exe
+C:\Users\Student\Desktop\Tech Academy material\GitHub\VariablesConsoleApplication\VariablesConsoleApplication\obj\Debug\VariablesConsoleApplication.pdb

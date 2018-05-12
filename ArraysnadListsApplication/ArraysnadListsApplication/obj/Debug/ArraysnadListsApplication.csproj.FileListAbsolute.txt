@@ -1,0 +1,6 @@
+C:\Users\Student\Desktop\Tech Academy material\GitHub\ArraysnadListsApplication\ArraysnadListsApplication\bin\Debug\ArraysnadListsApplication.exe.config
+C:\Users\Student\Desktop\Tech Academy material\GitHub\ArraysnadListsApplication\ArraysnadListsApplication\bin\Debug\ArraysnadListsApplication.exe
+C:\Users\Student\Desktop\Tech Academy material\GitHub\ArraysnadListsApplication\ArraysnadListsApplication\bin\Debug\ArraysnadListsApplication.pdb
+C:\Users\Student\Desktop\Tech Academy material\GitHub\ArraysnadListsApplication\ArraysnadListsApplication\obj\Debug\ArraysnadListsApplication.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\Tech Academy material\GitHub\ArraysnadListsApplication\ArraysnadListsApplication\obj\Debug\ArraysnadListsApplication.exe
+C:\Users\Student\Desktop\Tech Academy material\GitHub\ArraysnadListsApplication\ArraysnadListsApplication\obj\Debug\ArraysnadListsApplication.pdb

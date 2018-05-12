@@ -1,0 +1,6 @@
+C:\Users\Student\Desktop\Tech Academy material\GitHub\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.exe.config
+C:\Users\Student\Desktop\Tech Academy material\GitHub\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.exe
+C:\Users\Student\Desktop\Tech Academy material\GitHub\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.pdb
+C:\Users\Student\Desktop\Tech Academy material\GitHub\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.exe
+C:\Users\Student\Desktop\Tech Academy material\GitHub\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.pdb
+C:\Users\Student\Desktop\Tech Academy material\GitHub\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.csprojResolveAssemblyReference.cache

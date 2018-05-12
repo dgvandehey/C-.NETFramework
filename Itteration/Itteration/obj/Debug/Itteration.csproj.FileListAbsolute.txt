@@ -1,0 +1,6 @@
+C:\Users\Student\Desktop\Tech Academy material\GitHub\Itteration\Itteration\bin\Debug\Itteration.exe.config
+C:\Users\Student\Desktop\Tech Academy material\GitHub\Itteration\Itteration\bin\Debug\Itteration.exe
+C:\Users\Student\Desktop\Tech Academy material\GitHub\Itteration\Itteration\bin\Debug\Itteration.pdb
+C:\Users\Student\Desktop\Tech Academy material\GitHub\Itteration\Itteration\obj\Debug\Itteration.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\Tech Academy material\GitHub\Itteration\Itteration\obj\Debug\Itteration.exe
+C:\Users\Student\Desktop\Tech Academy material\GitHub\Itteration\Itteration\obj\Debug\Itteration.pdb

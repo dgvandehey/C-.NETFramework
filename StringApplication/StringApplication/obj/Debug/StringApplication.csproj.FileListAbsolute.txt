@@ -1,0 +1,6 @@
+C:\Users\Student\Desktop\Tech Academy material\GitHub\StringApplication\StringApplication\bin\Debug\StringApplication.exe.config
+C:\Users\Student\Desktop\Tech Academy material\GitHub\StringApplication\StringApplication\bin\Debug\StringApplication.exe
+C:\Users\Student\Desktop\Tech Academy material\GitHub\StringApplication\StringApplication\bin\Debug\StringApplication.pdb
+C:\Users\Student\Desktop\Tech Academy material\GitHub\StringApplication\StringApplication\obj\Debug\StringApplication.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\Tech Academy material\GitHub\StringApplication\StringApplication\obj\Debug\StringApplication.exe
+C:\Users\Student\Desktop\Tech Academy material\GitHub\StringApplication\StringApplication\obj\Debug\StringApplication.pdb

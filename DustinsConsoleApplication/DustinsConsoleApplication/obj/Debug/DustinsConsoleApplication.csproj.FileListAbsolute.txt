@@ -1,0 +1,6 @@
+C:\Users\Student\Desktop\ConsoleApplication\DustinsConsoleApplication\DustinsConsoleApplication\bin\Debug\DustinsConsoleApplication.exe.config
+C:\Users\Student\Desktop\ConsoleApplication\DustinsConsoleApplication\DustinsConsoleApplication\bin\Debug\DustinsConsoleApplication.exe
+C:\Users\Student\Desktop\ConsoleApplication\DustinsConsoleApplication\DustinsConsoleApplication\bin\Debug\DustinsConsoleApplication.pdb
+C:\Users\Student\Desktop\ConsoleApplication\DustinsConsoleApplication\DustinsConsoleApplication\obj\Debug\DustinsConsoleApplication.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\ConsoleApplication\DustinsConsoleApplication\DustinsConsoleApplication\obj\Debug\DustinsConsoleApplication.exe
+C:\Users\Student\Desktop\ConsoleApplication\DustinsConsoleApplication\DustinsConsoleApplication\obj\Debug\DustinsConsoleApplication.pdb

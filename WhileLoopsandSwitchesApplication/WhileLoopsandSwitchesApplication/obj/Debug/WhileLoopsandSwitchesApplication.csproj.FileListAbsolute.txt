@@ -1,0 +1,5 @@
+C:\Users\Student\Desktop\Tech Academy material\GitHub\WhileLoopsandSwitchesApplication\WhileLoopsandSwitchesApplication\bin\Debug\WhileLoopsandSwitchesApplication.exe.config
+C:\Users\Student\Desktop\Tech Academy material\GitHub\WhileLoopsandSwitchesApplication\WhileLoopsandSwitchesApplication\bin\Debug\WhileLoopsandSwitchesApplication.exe
+C:\Users\Student\Desktop\Tech Academy material\GitHub\WhileLoopsandSwitchesApplication\WhileLoopsandSwitchesApplication\bin\Debug\WhileLoopsandSwitchesApplication.pdb
+C:\Users\Student\Desktop\Tech Academy material\GitHub\WhileLoopsandSwitchesApplication\WhileLoopsandSwitchesApplication\obj\Debug\WhileLoopsandSwitchesApplication.exe
+C:\Users\Student\Desktop\Tech Academy material\GitHub\WhileLoopsandSwitchesApplication\WhileLoopsandSwitchesApplication\obj\Debug\WhileLoopsandSwitchesApplication.pdb

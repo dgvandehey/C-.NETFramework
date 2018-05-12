@@ -1,0 +1,6 @@
+C:\Users\Student\Desktop\Tech Academy material\GitHub\BranchingConsoleApplication\BranchingConsoleApplication\bin\Debug\BranchingConsoleApplication.exe.config
+C:\Users\Student\Desktop\Tech Academy material\GitHub\BranchingConsoleApplication\BranchingConsoleApplication\bin\Debug\BranchingConsoleApplication.exe
+C:\Users\Student\Desktop\Tech Academy material\GitHub\BranchingConsoleApplication\BranchingConsoleApplication\bin\Debug\BranchingConsoleApplication.pdb
+C:\Users\Student\Desktop\Tech Academy material\GitHub\BranchingConsoleApplication\BranchingConsoleApplication\obj\Debug\BranchingConsoleApplication.exe
+C:\Users\Student\Desktop\Tech Academy material\GitHub\BranchingConsoleApplication\BranchingConsoleApplication\obj\Debug\BranchingConsoleApplication.pdb
+C:\Users\Student\Desktop\Tech Academy material\GitHub\BranchingConsoleApplication\BranchingConsoleApplication\obj\Debug\BranchingConsoleApplication.csprojResolveAssemblyReference.cache

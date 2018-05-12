@@ -1,0 +1,6 @@
+C:\Users\Student\Desktop\Tech Academy material\GitHub\forloopApplication\forloopApplication\bin\Debug\forloopApplication.exe.config
+C:\Users\Student\Desktop\Tech Academy material\GitHub\forloopApplication\forloopApplication\bin\Debug\forloopApplication.exe
+C:\Users\Student\Desktop\Tech Academy material\GitHub\forloopApplication\forloopApplication\bin\Debug\forloopApplication.pdb
+C:\Users\Student\Desktop\Tech Academy material\GitHub\forloopApplication\forloopApplication\obj\Debug\forloopApplication.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\Tech Academy material\GitHub\forloopApplication\forloopApplication\obj\Debug\forloopApplication.exe
+C:\Users\Student\Desktop\Tech Academy material\GitHub\forloopApplication\forloopApplication\obj\Debug\forloopApplication.pdb
