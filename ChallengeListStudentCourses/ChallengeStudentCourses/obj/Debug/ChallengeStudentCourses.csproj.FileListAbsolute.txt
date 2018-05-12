@@ -1,0 +1,12 @@
+C:\Users\Student\Desktop\Tech Academy material\Extracted Files\CS-ASP_051-Challenge_Code\ChallengeStudentCourses\ChallengeStudentCourses\obj\Debug\ChallengeStudentCourses.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\Tech Academy material\Extracted Files\CS-ASP_051-Challenge_Code\ChallengeStudentCourses\ChallengeStudentCourses\bin\ChallengeStudentCourses.dll.config
+C:\Users\Student\Desktop\Tech Academy material\Extracted Files\CS-ASP_051-Challenge_Code\ChallengeStudentCourses\ChallengeStudentCourses\bin\ChallengeStudentCourses.dll
+C:\Users\Student\Desktop\Tech Academy material\Extracted Files\CS-ASP_051-Challenge_Code\ChallengeStudentCourses\ChallengeStudentCourses\bin\ChallengeStudentCourses.pdb
+C:\Users\Student\Desktop\Tech Academy material\Extracted Files\CS-ASP_051-Challenge_Code\ChallengeStudentCourses\ChallengeStudentCourses\obj\Debug\ChallengeStudentCourses.dll
+C:\Users\Student\Desktop\Tech Academy material\Extracted Files\CS-ASP_051-Challenge_Code\ChallengeStudentCourses\ChallengeStudentCourses\obj\Debug\ChallengeStudentCourses.pdb
+C:\Users\Student\Desktop\Tech Academy material\GitHub\ChallengeStudentCourses\ChallengeStudentCourses\bin\ChallengeStudentCourses.dll.config
+C:\Users\Student\Desktop\Tech Academy material\GitHub\ChallengeStudentCourses\ChallengeStudentCourses\bin\ChallengeStudentCourses.dll
+C:\Users\Student\Desktop\Tech Academy material\GitHub\ChallengeStudentCourses\ChallengeStudentCourses\bin\ChallengeStudentCourses.pdb
+C:\Users\Student\Desktop\Tech Academy material\GitHub\ChallengeStudentCourses\ChallengeStudentCourses\obj\Debug\ChallengeStudentCourses.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\Tech Academy material\GitHub\ChallengeStudentCourses\ChallengeStudentCourses\obj\Debug\ChallengeStudentCourses.dll
+C:\Users\Student\Desktop\Tech Academy material\GitHub\ChallengeStudentCourses\ChallengeStudentCourses\obj\Debug\ChallengeStudentCourses.pdb
